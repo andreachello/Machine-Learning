@@ -1,4 +1,4 @@
-# MachineLearning
+# Machine Learning
 Machine Learning from Exploratory Data Analysis to Deep Learning
 
 ## 1. Exploratory Data Analysis for Machine Learning
