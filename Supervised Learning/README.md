@@ -34,3 +34,25 @@
 - Finance ETF Regression Predictions
 
 # 2. Classification 
+
+**Topics**
+
+- Logistic Regression
+
+- K-Nearest Neighbors
+
+- Support Vector Machines and Gaussian Kernel SVMs
+
+- Decision Trees
+
+- Ensemble Methods, Bagging and Random Forests
+
+- Boosting and Stacking
+
+
+**Projects:**
+
+
+- TBD
+
+- TBD
